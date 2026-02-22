@@ -23,4 +23,10 @@ This project implements a Convolutional Neural Network (CNN) to classify handwri
 - Model Saving & Loading
 
 ## How to Run
-python pytorch_cnn.ipynb
+1. Install dependencies:
+pip install -r requirements.txt
+
+2. Launch Jupyter Notebook:
+jupyter notebook
+
+3. Open `pytorch_cnn.ipynb` and run all cells.
