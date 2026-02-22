@@ -12,9 +12,9 @@ This project implements a Convolutional Neural Network (CNN) to classify handwri
 - Linear(128, 10)
 
 ## Results
-- Training Accuracy: XX%
-- Validation Accuracy: XX%
-- Test Accuracy: XX%
+- Final Training loss: 0.0226
+- Validation Accuracy: 99.49%
+- Test Accuracy: 99.01%
 
 ## Features
 - Confusion Matrix
