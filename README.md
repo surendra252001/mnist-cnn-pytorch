@@ -23,4 +23,4 @@ This project implements a Convolutional Neural Network (CNN) to classify handwri
 - Model Saving & Loading
 
 ## How to Run
-python pytorch_cnn.py
+python pytorch_cnn.ipynb
